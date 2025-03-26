@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="select_units_to_and_from">Select units To and From</string>
+    <string name="from">From</string>
+    <string name="enter_some_numbers_to_convert">Enter some numbers to convert:</string>
+    <string name="_0_0">0.0</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+    <string name="converted_numbers_are">Converted numbers are:</string>
+    <string name="start">Start</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ui1">
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="152dp"
+        android:layout_height="54dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="124dp"
+        android:layout_marginBottom="80dp"
+        android:backgroundTint="@color/purple"
+        android:padding="12dp"
+        android:text="@string/start"
+        android:textSize="18sp" />
+
+</RelativeLayout>
